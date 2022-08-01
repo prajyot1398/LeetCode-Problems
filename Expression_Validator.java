@@ -71,7 +71,6 @@ Bye!
 # or -> or (||)
 # and -> and (&&)
 
-# prabhu@thesoftwarepractice.comprabhu@thesoftwarepractice.com
 def gt(a,b):
     return a>b
 
@@ -186,7 +185,6 @@ print(ans)
 """
 evaluation precedence -> right to left.
 always having operator have 2 operands.
-prabhu@thesoftwarepractice.com
 """
  * */
 
